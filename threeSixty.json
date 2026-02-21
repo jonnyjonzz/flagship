@@ -1,0 +1,207 @@
+{
+  "version": "3.109.36182.0",
+  "course_id": "6l5Nae6PpCV",
+  "title": "JAproject",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro"
+    },
+    {
+      "title": "Week 1"
+    },
+    {
+      "title": "Week 2"
+    },
+    {
+      "title": "Week 3"
+    },
+    {
+      "title": "Week 4"
+    },
+    {
+      "title": "Final Week"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6q2rBIwAB1w",
+      "title": "Intro",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6UEK1p3Cohv",
+      "title": "Name",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6Yn43VYhLmD",
+      "title": "Context 1",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ijaCFAHKFv",
+      "title": "Context 2",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6p1PQvL3l06",
+      "title": "Meet the Team",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6HywrjJiNJn",
+      "title": "Context/Setup",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "5UjMgAtzIlC",
+      "title": "Message",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5tM97CTFtoO",
+      "title": "Choices",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "5nrd9l07WdZ",
+      "title": "Bad",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "6dN4TkVMVrq",
+      "title": "Better",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "5lTz21Z6HkC",
+      "title": "Best",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5rA6foKb0lY",
+      "title": "Context/Setup",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5uyknBvv8Wd",
+      "title": "Message",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5ok4zeW1xw9",
+      "title": "Choices",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6VyBqthJ4jM",
+      "title": "Bad",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6qyoQUOMI8k",
+      "title": "Better",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6dG1w6SzkJ5",
+      "title": "Best",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5sSLq8kHG0R",
+      "title": "Context/Setup",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6AO6FOzDHxx",
+      "title": "Message",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5daDj7EHmjK",
+      "title": "Choices",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5lTVbndCfrJ",
+      "title": "Bad",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6UlrUzAsdnZ",
+      "title": "Best",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5siSIIbCMZO",
+      "title": "Better",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5xTIy7qEitV",
+      "title": "Context/Setup",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5XTBj8hPVmz",
+      "title": "Message",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6k8JcIZ6ovP",
+      "title": "Choices",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "6MB6IXC7wME",
+      "title": "Bad",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "67T4d8y1C3w",
+      "title": "Best",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "5hS4GoLJYdh",
+      "title": "Better",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "6F7BJPb7xdm",
+      "title": "Context/Setup",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5c29KXKDKBa",
+      "title": "Best",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6DFRDJQKixC",
+      "title": "Better",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "5pcHJwHCd34",
+      "title": "Bad",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "5vcaj0TX56K",
+      "title": "Results",
+      "scene_index": "6.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1540,
+    "height": 838
+  },
+  "stage": {
+    "width": 1280,
+    "height": 720
+  }
+}
